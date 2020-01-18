@@ -1876,6 +1876,7 @@ Southern Cross Ten (AU):Australia/Sydney
 Space (Latin America):America/Argentina/Buenos_Aires
 Space:America/St_Johns
 Spectrum (US):US/Eastern
+Spectrum:US/Eastern
 Speed:US/Eastern
 Spektrum:Europe/Budapest
 Spiegel Geschichte (DE):Europe/Berlin
